@@ -54,3 +54,4 @@ Este documento detalha os requisitos funcionais e não funcionais para o sistema
 *Otimizam o uso, mas não impedem o funcionamento inicial.*
 - **Funcionais:** RF10, RF13, RF14.
 - **Não Funcionais:** RNF04, RNF07, RNF08, RNF10, RNF11.
+
