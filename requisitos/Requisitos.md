@@ -12,7 +12,7 @@ Este documento detalha os requisitos funcionais e não funcionais para o sistema
 | **RF004** | Cadastrar Sala | O sistema deve permitir a inclusão de novas salas informando nome, tipo (Reunião, Biblioteca, Laboratório), capacidade e recursos disponíveis. |
 | **RF005** | Listar e Editar Salas | O sistema deve permitir a listagem, edição dos dados e inativação de salas existentes. |
 | **RF006** | Criar Reserva | O sistema deve permitir que o usuário solicite a reserva de uma sala, informando a sala desejada, data, horário de início e horário de término. |
-| **RF007** | Verificar Disponibilidade | **Regra Principal:** O sistema deve validar se a sala já possui reserva confirmada ou pendente no mesmo intervalo de horário. Caso haja sobreposição, o agendamento deve ser bloqueado. |
+| **RF007** | Verificar Disponibilidade | Regra Principal: O sistema deve validar se a sala já possui reserva confirmada ou pendente no mesmo intervalo de horário. Caso haja sobreposição, o agendamento deve ser bloqueado. |
 | **RF008** | Cancelar Reserva | O sistema deve permitir que o usuário cancele sua própria reserva ou que o administrador cancele qualquer reserva existente. |
 | **RF009** | Visualizar Calendário | O sistema deve exibir uma interface de calendário (diária, semanal e mensal) com o status das salas e agendamentos. |
 | **RF010** | Filtrar Agendamentos | O sistema deve permitir a filtragem do calendário por tipo de sala, sala específica, data ou status da reserva. |
