@@ -13,3 +13,5 @@ Sistema voltado para agendamento de salas (Reuniões, Biblioteca, Laboratorio)
 - git commit -m "minha descrição" (comente apenas as principais alterações)
 - git push origin "teu nome" (Ex: git push origin Lucca)
 - git status (só por precaução)
+# Link para acesso do documento da Rosane sobre a organização e tarefas
+[Docs](https://docs.google.com/document/d/1c_0q0Bj8g-1JVLkm2Z5XdC2CQ2Yn4sjRCNFp25FoEO0/edit?tab=t.0)
