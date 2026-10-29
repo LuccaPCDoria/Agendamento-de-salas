@@ -43,15 +43,13 @@ Este documento detalha os requisitos funcionais e não funcionais para o sistema
 ### Essenciais
 *Indispensáveis para a operação básica e resolução de conflitos.*
 - **Funcionais:** RF01, RF02, RF04, RF06, RF07.
-- **Não Funcionais:** RNF01, RNF02, RNF03, RNF09.
 
 ### Importantes
 *Fundamentais para gestão, controle de acesso e experiência do usuário.*
 - **Funcionais:** RF03, RF05, RF08, RF09, RF11, RF12, RF15.
-- **Não Funcionais:** RNF05, RNF06.
 
 ### Desejáveis
 *Otimizam o uso, mas não impedem o funcionamento inicial.*
 - **Funcionais:** RF10, RF13, RF14.
-- **Não Funcionais:** RNF04, RNF07, RNF08, RNF10, RNF11.
+
 
